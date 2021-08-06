@@ -1,1 +1,2 @@
-# intern-project
+# intern-project given by ineuron company
+This project tells us about the identification of 8 types of diffrent mice by giving some protiens we can identfy that in which category that mice are falling.....
